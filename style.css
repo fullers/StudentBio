@@ -1,0 +1,30 @@
+body {
+
+}
+
+/* Styling h1 as larger size and blue text.*/
+	h1 {
+		font-size: 60px;
+		color: blue;
+		font-family: serif;
+		text-align: center;
+	}
+/* Styling h2 */
+
+	h2 {
+		font-size: 30px;
+		font-family: sans-serif;
+		text-align: center;
+	}
+
+	section {
+		display: inline-block;
+
+	}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.bio-image {}
